@@ -4,7 +4,7 @@
 
 // - not the best approach but i just wanted to practice #ifdef directives
 // - comment and uncomment for if-else vs case-switch conditions
-//#define if_else_cond True
+#define if_else_cond True
 
 int user_input(){
 
